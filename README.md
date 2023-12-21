@@ -1,1 +1,1 @@
-# My_nequin_prev
+# 처음 만든 모델
